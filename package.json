@@ -1,0 +1,30 @@
+{
+  "name": "@zods/ai-kit",
+  "version": "1.0.0",
+  "description": "Tools and utilities for AI with a focus on Solana DeFi protocols and web3.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solana",
+    "defi",
+    "web3",
+    "ai",
+    "zods"
+  ],
+  "author": "ZODs Labs",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^5.2.1",
+    "@typescript-eslint/eslint-plugin": "^8.20.0",
+    "@typescript-eslint/parser": "^8.20.0",
+    "eslint": "^9.18.0",
+    "eslint-plugin-react": "^7.37.4",
+    "eslint-plugin-unused-imports": "^4.1.4",
+    "prettier": "^3.4.2",
+    "prettier-eslint": "^16.3.0",
+    "prettier-plugin-tailwindcss": "^0.6.10"
+  }
+}
